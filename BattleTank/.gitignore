@@ -1,4 +1,5 @@
 *.VC.db
+Content/ParagonShinbi/*
 
 # Visual Studio 2015 user specific files
 .vs/
@@ -55,8 +56,7 @@ Binaries/*
 Plugins/*/Binaries/*
 
 # Builds
-Build/*
-
+BattleTank/
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
 Build/*/**
@@ -77,3 +77,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+Content/StarterContent/*
+Content/TextureCache/*
