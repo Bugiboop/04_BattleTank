@@ -56,7 +56,6 @@ Binaries/*
 Plugins/*/Binaries/*
 
 # Builds
-BattleTank/
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
 Build/*/**
